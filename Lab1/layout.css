@@ -5,9 +5,48 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header , nav , article , aside , footer {
+header{
     padding: 10px;
     background-color: yellow;
     border: 1px gray solid;
     text-align:  center;
+    width: 100%;
+}
+
+nav{
+    float: left;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align:  center;
+    height: 200px;
+    width: 20%;
+}
+
+article{
+    float: left;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align:  center;
+    height: 200px;
+    width: 60%;
+}
+
+div{
+    float: left;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align:  center;
+    height: 200px;
+    width: 20%;
+}
+
+footer{
+    padding: 10px;
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align:  center;
+    width: 100%;
 }
