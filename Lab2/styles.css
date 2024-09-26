@@ -26,8 +26,11 @@ header p {
 
 /* Navigation Styles */
 nav {
+    float: left;
+    width: 20%;
+    height: 100vh;
     background-color: #ffa41b;
-    padding: 15px;
+    padding-top: 20px;
     text-align: center;
 }
 
