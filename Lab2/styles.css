@@ -27,12 +27,14 @@ header p {
 
 /* Navigation Styles */
 nav {
+    position:sticky;
     float: left;
     width: 20%;
     height: 100vh;
     background-color: #ffa41b;
     padding-top: 20px;
     text-align: center;
+    top: 0px;
 }
 
 nav ul {
